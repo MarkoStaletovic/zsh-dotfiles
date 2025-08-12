@@ -15,7 +15,7 @@ This repository contains my zsh configuration and an automated setup script for 
 Run this one-liner on a fresh Ubuntu installation:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/MarkoStaletovic/zsh-dotfiles/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/MarkoStaletovic/zsh-dotfiles/master/install.sh | bash
 ```
 
 Or clone and run manually:
